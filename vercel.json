@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/docs",
+      "destination": "https://turbo-repo-example-docs.vercel.app/"
+    },
+    {
+      "source": "/:match*",
+      "destination": "https://turbo-repo-example-web.vercel.app/"
+    }
+  ]
+}
