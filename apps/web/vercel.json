@@ -6,7 +6,7 @@
     },
     {
       "source": "/:match*",
-      "destination": "https://turbo-repo-example-web.vercel.app/"
+      "destination": "/"
     }
   ]
 }
